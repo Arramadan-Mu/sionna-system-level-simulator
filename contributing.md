@@ -2,10 +2,10 @@
 
 Thank you for your interest in contributing! This project welcomes contributions from the wireless communications and machine learning communities.
 
-## 🚀 Quick Start for Contributors
+##  Quick Start for Contributors
 
 1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/yourusername/sionna-system-level-simulator.git`
+2. **Clone** your fork: `git clone https://github.com/arramadan-mu/sionna-system-level-simulator.git`
 3. **Create** a feature branch: `git checkout -b feature/amazing-feature`
 4. **Make** your changes
 5. **Test** your changes: `python main.py`
@@ -13,7 +13,7 @@ Thank you for your interest in contributing! This project welcomes contributions
 7. **Push** to branch: `git push origin feature/amazing-feature`
 8. **Create** a Pull Request
 
-## 🎯 Areas for Contribution
+##  Areas for Contribution
 
 ### High Priority
 - **ML/RL Integration**: Implement reinforcement learning agents
@@ -32,7 +32,7 @@ Thank you for your interest in contributing! This project welcomes contributions
 - **Containerization**: Docker support
 - **CI/CD**: Automated testing and deployment
 
-## 🔧 Development Guidelines
+##  Development Guidelines
 
 ### Code Style
 - Follow **PEP 8** Python style guide
@@ -50,24 +50,17 @@ Thank you for your interest in contributing! This project welcomes contributions
 - Add inline comments for complex algorithms
 - Include example usage in docstrings
 
-## 📊 Benchmark Results
+##  Benchmark Results
 
 When contributing performance improvements, please include:
 - **Before/After** performance metrics
 - **Hardware specifications** used for testing
 - **Parameter settings** for reproducibility
 
-## 🤝 Community Guidelines
+##  Community Guidelines
 
 - Be respectful and constructive in discussions
 - Help others learn wireless communications concepts
 - Share knowledge about Sionna and TensorFlow
 - Report bugs clearly with reproduction steps
 
-## 📞 Getting Help
-
-- **GitHub Issues**: For bug reports and feature requests
-- **Discussions**: For questions and general help
-- **Email**: For private inquiries (if provided)
-
-Thank you for contributing to advancing wireless communications research! 🚀
