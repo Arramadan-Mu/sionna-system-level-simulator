@@ -170,10 +170,10 @@ Contributions are welcome! Areas for enhancement:
 
 
 
-## 🏷️ Keywords
+##  Keywords
 
 `sionna` `wireless-communications` `5g` `6g` `system-level-simulation` `tensorflow` `cellular-networks` `power-control` `scheduling` `link-adaptation` `machine-learning` `reinforcement-learning` `multi-cell` `mimo` `ofdm`
 
 ---
 
-⭐ **Star this repository if you find it useful for your wireless communications research or learning!**
+ **Star this repository if you find it useful for your wireless communications research or learning!**
