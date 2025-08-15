@@ -1,0 +1,19 @@
+# requirements.txt
+
+# Core dependencies
+tensorflow>=2.10.0
+sionna>=0.15.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Optional ML/RL dependencies (for future extensions)
+# stable-baselines3>=2.0.0
+# gymnasium>=0.26.0
+# tensorboard>=2.10.0
+# ray[rllib]>=2.0.0
+
+# Development dependencies
+# jupyter>=1.0.0
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
