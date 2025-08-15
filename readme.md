@@ -1,19 +1,19 @@
-# 📡 Sionna System-Level Wireless Network Simulator
+# Sionna System-Level Wireless Network Simulator
 
 A comprehensive, modular system-level simulator for wireless cellular networks built on NVIDIA's Sionna framework. This project provides a clean, maintainable architecture for simulating multi-cell wireless scenarios with advanced features like power control, scheduling, link adaptation, and channel modeling.
 
-## 🚀 Features
+## Features
 
-- **🏗️ Modular Architecture**: Clean separation of concerns with organized package structure
-- **📡 Multi-Cell Simulation**: Hexagonal grid topology with interference modeling
-- **⚡ Advanced Power Control**: Downlink fair power allocation and uplink power control
-- **📊 Link Adaptation**: Outer Loop Link Adaptation (OLLA) with MCS selection
-- **🎯 Intelligent Scheduling**: Proportional Fair (PF) scheduling for SU-MIMO
-- **📈 Comprehensive Analysis**: Built-in visualization and performance metrics
-- **🔧 GPU Optimized**: Configured for high-performance GPU acceleration
-- **🤖 ML/RL Ready**: Architecture designed for easy integration of machine learning algorithms
+- ** Modular Architecture**: Clean separation of concerns with organized package structure
+- ** Multi-Cell Simulation**: Hexagonal grid topology with interference modeling
+- ** Advanced Power Control**: Downlink fair power allocation and uplink power control
+- ** Link Adaptation**: Outer Loop Link Adaptation (OLLA) with MCS selection
+- ** Intelligent Scheduling**: Proportional Fair (PF) scheduling for SU-MIMO
+- ** Comprehensive Analysis**: Built-in visualization and performance metrics
+- ** GPU Optimized**: Configured for high-performance GPU acceleration
+- ** ML/RL Ready**: Architecture designed for easy integration of machine learning algorithms
 
-## 🏛️ Architecture
+##  Architecture
 
 ```
 project_root/
@@ -38,7 +38,7 @@ project_root/
 └── main.py                    # Entry point
 ```
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8+
@@ -55,12 +55,12 @@ pip install numpy
 
 ### Quick Start
 ```bash
-git clone https://github.com/yourusername/sionna-system-level-simulator.git
+git clone https://github.com/Arramadan-mu/sionna-system-level-simulator.git
 cd sionna-system-level-simulator
 python main.py
 ```
 
-## 📊 Simulation Scenarios
+## Simulation Scenarios
 
 ### Supported 3GPP Scenarios
 - **UMi**: Urban Micro-cell
@@ -74,7 +74,7 @@ python main.py
 - **Bandwidth**: Configurable OFDM parameters
 - **Channel models**: 3GPP TR 38.901 compliant
 
-## 🎯 Use Cases
+##  Use Cases
 
 ### Research Applications
 - **5G/6G Performance Analysis**: System-level performance evaluation
@@ -87,7 +87,7 @@ python main.py
 - **System Design**: Understanding trade-offs in network design
 - **Performance Analysis**: Learning about KPIs and optimization
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 The simulator provides comprehensive performance analysis:
 
@@ -97,7 +97,7 @@ The simulator provides comprehensive performance analysis:
 - **Efficiency**: Power consumption and spectral efficiency
 - **Mobility**: Support for user movement and handovers
 
-## 🔧 Configuration
+##  Configuration
 
 All simulation parameters are centralized in `config/simulation_config.py`:
 
@@ -111,7 +111,7 @@ CARRIER_FREQUENCY = 3.5e9          # Hz
 NUM_SLOTS = 1000                   # Simulation duration
 ```
 
-## 📊 Example Results
+##  Example Results
 
 The simulator generates comprehensive visualizations:
 - CDF plots of key performance metrics
@@ -120,7 +120,7 @@ The simulator generates comprehensive visualizations:
 - Power control effectiveness
 - Scheduling fairness analysis
 
-## 🤖 ML/RL Integration Ready
+##  ML/RL Integration Ready
 
 The modular architecture makes it easy to integrate machine learning:
 - **Plug-in RL agents** for power control
@@ -128,7 +128,7 @@ The modular architecture makes it easy to integrate machine learning:
 - **Intelligent beam management** with deep learning
 - **Predictive channel estimation** using ML
 
-## 🔬 Research Extensions
+##  Research Extensions
 
 This simulator serves as a foundation for:
 - **Multi-agent reinforcement learning** for network optimization
@@ -136,7 +136,7 @@ This simulator serves as a foundation for:
 - **Digital twin** development for cellular networks
 - **6G research** and beyond-5G technologies
 
-## 📚 Documentation
+##  Documentation
 
 ### Key Components
 - **SystemLevelSimulator**: Main simulation engine
@@ -152,7 +152,7 @@ The modular design allows easy extension:
 3. Add new visualization functions
 4. Integrate ML/RL agents
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Areas for enhancement:
 - New channel models
@@ -161,21 +161,14 @@ Contributions are welcome! Areas for enhancement:
 - Performance optimizations
 - Documentation improvements
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **NVIDIA Sionna Team**: For the excellent Sionna framework
 - **3GPP**: For standardized channel models and scenarios
 - **Open Source Community**: For the foundational libraries
 
-## 📞 Contact
 
-For questions, suggestions, or collaborations:
-- **Issues**: Use GitHub issues for bug reports and feature requests
-- **Discussions**: Use GitHub discussions for general questions
 
 ## 🏷️ Keywords
 
